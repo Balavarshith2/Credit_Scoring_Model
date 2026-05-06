@@ -34,4 +34,4 @@ Instead of directly training a model, I followed a step-by-step process:
 - Run the cells to see the full workflow
 
 5. Takeaway
-This project helped me understand how machine learning is used beyond theory—especially in areas like finance where decisions have real impact. 
+This project helped me understand how machine learning is used beyond theory especially in areas like finance where decisions have real impact. 
